@@ -1,7 +1,6 @@
 <h1 align="center">Oi 👋, Eu sou Leticia Pereira</h1>
 <h3 align="center">Trilhando o caminho para me tornar uma Cientista de Dados</h3>
 
-- 🌱 Atualmente estou aprendendo sobre **Machine Learning**
 
 - 🤝 Estou procurando ajuda com  **Projetos de Ciência de Dados**
 
