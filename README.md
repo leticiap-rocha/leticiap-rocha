@@ -2,9 +2,10 @@
 <h3 align="center">Trilhando o caminho para me tornar uma Cientista de Dados</h3>
 
 
-- 🤝 Estou procurando ajuda com  **Projetos de Ciência de Dados**
+- Aqui estou Aprendendo, explorando e aplicando Ciência de Dados, um projeto por vez.
+- Acesse aqui meu [Repositório de Aprendizado](https://github.com/leticiap-rocha/DSLearningJourney).
 
-- 📫 How to reach me **leticiap.rocha@outlook.com**
+- 📫 Meu e-mail **leticiap.rocha@outlook.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
