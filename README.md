@@ -1,11 +1,28 @@
 <h1 align="center">Oi 👋, Eu sou Leticia Pereira</h1>
 <h3 align="center">Trilhando o caminho para me tornar uma Cientista de Dados</h3>
 
+Tenho 33 anos e recentemente decidi migrar das pesquisas científicas para a Ciência de Dados. 
 
-- Aqui estou Aprendendo, explorando e aplicando Ciência de Dados, um projeto por vez.
-- Acesse aqui meu [Repositório de Aprendizado](https://github.com/leticiap-rocha/DSLearningJourney).
+### 🎓 Formação Acadêmica 
+- **Graduação:** Engenharia de Produção - Centro Universitario FAESA (2018)
+- **Pós-Graduação:** Inovação, Tecnologia e Gestão 3.0 - Centro Universitario FAESA (2020)
+- **Mestrado em andamento:** Tecnologias Sustentáveis - Instituto Federal do Espírito Santo (2026)
 
-- 📫 Meu e-mail **leticiap.rocha@outlook.com**
+
+
+🌱 Aqui estou Aprendendo, explorando e aplicando Ciência de Dados, um projeto por vez.
+
+📝 Acesse meu [Repositório de Aprendizado](https://github.com/leticiap-rocha/DSLearningJourney).
+
+📂 Aqui é possível acessar meu [Portfólio](https://github.com/leticiap-rocha/Portifolio-Ciencia-de-Dados).
+
+### 🏆 Certificações e Cursos 
+- Certificação em Formação Plena em Análise e Ciência de Dados pela Udemy (2024)
+
+### 🚀 Objetivos Futuros 
+- Aprofundar conhecimentos em Machine Learning e Deep Learning
+
+📫 Meu e-mail **leticiap.rocha@outlook.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
