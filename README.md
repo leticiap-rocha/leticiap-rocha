@@ -6,7 +6,7 @@ Tenho 33 anos e recentemente decidi migrar das pesquisas científicas para a Ci�
 ### 🎓 Formação Acadêmica 
 - **Graduação:** Engenharia de Produção - Centro Universitario FAESA (2018)
 - **Pós-Graduação:** Inovação, Tecnologia e Gestão 3.0 - Centro Universitario FAESA (2020)
-- **Mestrado em andamento:** Tecnologias Sustentáveis - Instituto Federal do Espírito Santo (2026)
+- **Mestrado (em andamento):** Tecnologias Sustentáveis - Instituto Federal do Espírito Santo (2024-2026)
 
 
 
