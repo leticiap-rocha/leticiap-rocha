@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Leticia Pereira</h1>
 <h3 align="center">Trilhando o caminho para me tornar uma Cientista de Dados</h3>
 
-Tenho 33 anos e recentemente decidi migrar das pesquisas científicas para a Ciência de Dados. 
+Tenho 34 anos e recentemente decidi migrar das pesquisas científicas para a Ciência de Dados. 
 
 ### 🎓 Formação Acadêmica 
 - **Graduação:** Engenharia de Produção - Centro Universitario FAESA (2018)
